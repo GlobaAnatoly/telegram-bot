@@ -1,0 +1,12 @@
+{
+    "name": "anatoly/l15",
+    "authors": [
+        {
+            "name": "GlobaAnatoly",
+            "email": "globa.anatolyyy@gmail.com"
+        }
+    ],
+    "require": {
+        "telegram-bot/api": "^2.3"
+    }
+}
